@@ -8,7 +8,7 @@ Modified via first-branch 2024-06-02.
 
 Added CSS directory and test.css via Master 2024-06-05.
 
-## Proposed Changes {#proposed_chg)
+## Proposed Changes {#proposed_chg}
 
 - [ ] Add more files and directories.
 - [ ] Add special features to the readme file.
