@@ -1,0 +1,19 @@
+
+body {
+	font-weight: normal;
+	font-size: 80%;
+	font-family: sans-serif;
+	line-height: 140%;
+	min-width: 82em;
+	margin: 0;
+}
+
+a.locallink:link     { color: #666; text-decoration: none; }
+a.locallink:visited  { color: #666; text-decoration: none; }
+a.locallink:hover    { color: #000; text-decoration: underline; }
+
+td.formlabel { text-align: right; padding-right: 10px; font-style: italic; }
+td { padding-left: 5px; padding-right: 5px; }
+th { padding-left: 5px; padding-right: 5px; }
+
+
